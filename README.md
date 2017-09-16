@@ -1,2 +1,2 @@
 # ImageResizer
-Resizing an image with specific dimensions
+Matlab code to resize an image with specific dimensions.
